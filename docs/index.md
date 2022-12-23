@@ -58,11 +58,11 @@ RAM账号所需权限
 部署流程 
 -------------------------
 
-部署步骤
+**部署步骤**
 
 单击[部署链接](https://computenest.console.aliyun.com/user/cn-hangzhou/serviceInstanceCreate?ServiceId=service-edc4201fe08a4d0a82f1)，在部署界面填写相应的参数，完成部署。
 
-部署参数说明
+**部署参数说明**
 
 您可以通过服务商在计算巢中发布的服务，一键部署阿里云资源和服务商提供的软件。在创建服务实例的过程中，需要配置服务实例信息，下文介绍麒麟CRM-阿里云k8s服务需要配置的详细参数及注意事项。
 
